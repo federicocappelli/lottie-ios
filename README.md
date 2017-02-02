@@ -24,6 +24,18 @@ Here is just a small sampling of the power of Lottie
 
 ![Abcs](_Gifs/Examples4.gif)
 
+## Install Lottie
+
+###Cocoapods
+Add the pod to your podfile
+```
+pod 'lottie-ios'
+```
+run
+```
+pod install
+```
+
 ## Using Lottie
 Lottie supports iOS 8 and above.
 Lottie animations can be loaded from bundled JSON or from a URL
